@@ -121,7 +121,7 @@ Framework Choice: PyTorch was selected for its dynamic computation graph, clean 
 
 ## 📁 Project Structure
 
-```
+```text
 plant-disease-detection/
 ├── frontend/                    # React / Vite SPA Dashboard
 │   ├── src/                     # React components, pages, and API services
@@ -151,10 +151,9 @@ plant-disease-detection/
 │       ├── test_data.py         # Dataset / transform unit tests
 │       ├── test_model.py        # Model output shape unit tests
 │       └── test_api.py          # FastAPI integration tests
-├── .gitignore
+├── requirements.txt
 ├── Dockerfile
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ---
