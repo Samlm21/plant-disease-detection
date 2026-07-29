@@ -1,0 +1,23 @@
+# Node/Frontend
+node_modules/
+dist/
+.env
+.env.local
+
+# Python/Backend
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Machine Learning Models
+*.h5
+*.pt
+*.pth
+*.onnx
+models/
+
+# OS Files
+.DS_Store
+Thumbs.db
